@@ -1,4 +1,4 @@
 {
-    "someSecretEssentialVariable": false,
+    "someSecretEssentialVariable": true,
     "doNotRemove": "For preview and demo only, full website delivered after payment"
 }
